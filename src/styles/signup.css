@@ -1,0 +1,24 @@
+.signup{
+    height: inherit;
+}
+.signup-header{
+    font-size: 2.75rem;
+    font-weight: 900;
+    color: #224957;
+}
+.signupForm{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
+input{
+    background: #f4f6f8;
+    border: 1px solid #7064e5;
+    border-radius: 10px;
+    box-sizing: border-box;
+    color: #7064e5;
+    font-size: 1.2em;
+    padding: 12px;
+    /* outline: #7064e5; */
+}
